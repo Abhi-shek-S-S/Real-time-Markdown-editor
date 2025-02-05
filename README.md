@@ -65,4 +65,4 @@ markdown-previewer/
 
 Your Name - Abhishek S S
 
-Project Link: [GitHub Repo](https://github.com/yourusername/markdown-previewer)
+Project Link: [GitHub Repo](https://github.com/Abhi-shek-S-S/Real-time-Markdown-editor/tree/main)
