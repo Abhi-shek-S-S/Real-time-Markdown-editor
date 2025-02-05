@@ -29,7 +29,7 @@ A powerful, real-time Markdown editor with advanced features.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/markdown-previewer.git
+git clone https://github.com/Abhi-shek-S-S/markdown-previewer.git
 cd markdown-previewer
 ```
 
@@ -63,6 +63,6 @@ markdown-previewer/
 
 ## 📞 Contact
 
-Your Name - youremail@example.com
+Your Name - Abhishek S S
 
 Project Link: [GitHub Repo](https://github.com/yourusername/markdown-previewer)
